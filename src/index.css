@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.float-soft {
+  animation: floatSoft 7s ease-in-out infinite;
+  will-change: transform;
+}
+
+@keyframes floatSoft {
+  0%, 100% {
+    transform: translateY(0px) rotate(var(--tw-rotate));
+  }
+  50% {
+    transform: translateY(-14px) rotate(var(--tw-rotate));
+  }
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .float-soft {
+    filter: saturate(1.02);
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Learn HTML, CSS, JS, and React to build modern websites.",
+    "price": "2000",
+    "image": "https://i.ibb.co.com/pjhKpjKP/Clean-flat-vector-illustration-of-the-web-development-process-showing-a-laptop-screen-with-HTML-CSS.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Digital Marketing",
+    "description": "Master SEO, Ads, and Social Media Marketing.",
+    "price": "1500",
+    "image": "https://i.ibb.co.com/DDwfK2rB/Isometric-illustration-of-digital-marketing-team-analyzing-data-on-computer-screens-surrounded-by-ch.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Video Editing",
+    "description": "Learn professional video editing, color grading, and motion design using industry tools.",
+    "price": "2200",
+    "image": "https://i.ibb.co.com/mV3Q2NLM/Modern-flat-vector-illustration-of-a-vibrant-video-editing-workspace-with-a-computer-screen-showing.jpg"
+  },
+
+
+  {
+    "id": 4,
+    "title": "Graphic Design",
+    "description": "Become skilled in Photoshop, Illustrator, branding, and creative design principles.",
+    "price": "1800",
+    "image": "https://i.ibb.co.com/dsT3v7hF/graphic.jpg"
+  },
+  {
+    "id": 5,
+    "title": "App Development",
+    "description": "Learn mobile app development using Flutter, Dart, and Firebase.",
+    "price": "2500",
+    "image": "https://i.ibb.co.com/zM447bj/appdevelopment.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cyber Security Basics",
+    "description": "Learn ethical hacking, network security, and cyber threat prevention.",
+    "price": "2300",
+    "image": "https://i.ibb.co.com/bR3LHdCr/cyber.jpg"
+  }
+]

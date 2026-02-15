@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Website Design",
+    "details": "We design modern, responsive websites for businesses.",
+    "price": 3000
+  },
+  {
+    "id": 2,
+    "name": "SEO Optimization",
+    "details": "Boost your website ranking and grow your audience.",
+    "price": 2000
+  },
+  {
+    "id": 3,
+    "name": "Social Media Ads",
+    "details": "We manage Facebook and Google ads that convert.",
+    "price": 2500
+  }
+]
